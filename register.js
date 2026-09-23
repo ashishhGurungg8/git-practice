@@ -1,3 +1,3 @@
-console.log("Register a new user");
+console.log("Register fixed");
 console.log("Register shribisha");
 

@@ -1,1 +1,1 @@
-rebase me
+gpg configured

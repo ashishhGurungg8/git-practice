@@ -1,0 +1,11 @@
+[33m421e6e8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/login[m[33m)[m Feat: Added login feature:
+[33m44c2bc0[m Fix: Added a new user
+[33m5f99ab3[m fix: shribisha register fixed
+[33mf7c1e93[m fix: register user fixed
+[33m17f4f15[m[33m ([m[1;31morigin/feat/register[m[33m, [m[1;32mfeat/register[m[33m)[m feat: registered new user shribisha
+[33m107bd61[m Merge pull request #1 from ashishhGurungg8/register
+[33m8a19866[m[33m ([m[1;31morigin/register[m[33m)[m feat: register user
+[33m8efdf58[m gpg configured
+[33mc91121e[m new set up
+[33m6b19fa5[m rebase: completed
+[33m8aa6f43[m test: add login feature txt
